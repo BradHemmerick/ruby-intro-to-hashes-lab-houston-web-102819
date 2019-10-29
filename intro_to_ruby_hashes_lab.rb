@@ -1,6 +1,9 @@
 def new_hash
+<<<<<<< HEAD
 	hash = {}
 	return hash
+=======
+>>>>>>> 23107e3f644a0be0b86bad9f1a4473f1d6aa97fd
 end
 
 def actor
